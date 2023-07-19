@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "vN9AXrBCHJ4phovtCyVFP4tFTgNjA349+obERE6hNOQX7bgbzpnOIzmHUgKtCpqs/HcgPxmS/Un1zXP5q/6vVw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\TSX\\Documents\\Project\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TSX\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
+    "C:\\Users\\TSX\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\TSX\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.1.0\\mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
+    "C:\\Users\\TSX\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\TSX\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.2\\microsoft.visualstudio.azure.containers.tools.targets.1.17.2.nupkg.sha512"
+  ],
+  "logs": []
+}
